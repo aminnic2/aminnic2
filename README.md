@@ -76,7 +76,7 @@ Docker · Git/GitHub · PostgreSQL · Streamlit · pandas · BeautifulSoup
 
 ## 💼 Experience
 
-**AI Automation & Software Systems Intern — Zum Webma, Switzerland**
+**AI Automation & Software Systems Intern — Zum Web, Switzerland**
 Built automation workflows and backend systems for website analysis, reporting, search-performance analysis, and recurring SEO operations.
 
 Previously worked on:
@@ -89,8 +89,8 @@ Previously worked on:
 
 ## 🎓 Education
 
-**Engineering Degree — Computer Science & Networks**
-EMSI Marrakech · Expected graduation: September 2026
+**Diplôme d'Ingénieur d'État (Master's level) — Computer Engineering & Networks (MIAGE)**
+EMSI Marrakech · Graduated September 2026
 
 ---
 
@@ -98,7 +98,7 @@ EMSI Marrakech · Expected graduation: September 2026
 
 * 🇬🇧 British & 🇵🇱 Polish (EU) citizen
 * Eligible to work in the **UK and EU without sponsorship**
-* Open to opportunities in **Switzerland and Europe**
+* Based in London · open to opportunities in **the UK, Switzerland and Europe**
 * Languages: Arabic · French · English · Polish
 
 ---
